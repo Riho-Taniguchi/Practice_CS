@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{692AF082-1350-4312-932E-96604F285BD2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProblemA/Main.cs">
+    <Files>
+      <File FileName="ProblemA/Program.cs" Line="28" Column="6" />
+      <File FileName="ProblemA/Base (コピー).cs" Line="19" Column="6" />
+      <File FileName="ProblemA/Kenshi (コピー).cs" Line="8" Column="6" />
+      <File FileName="ProblemA/Mahoutsukai (コピー).cs" Line="9" Column="1" />
+      <File FileName="ProblemA/Main.cs" Line="10" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProblemA" expanded="True">
+            <Node name="ProblemA" expanded="True">
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PracticeA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

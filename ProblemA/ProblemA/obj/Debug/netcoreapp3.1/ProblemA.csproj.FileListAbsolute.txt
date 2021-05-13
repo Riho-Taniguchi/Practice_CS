@@ -1,0 +1,11 @@
+/Users/taniguchiriho/Projects/ProblemA/ProblemA/obj/Debug/netcoreapp3.1/ProblemA.csprojAssemblyReference.cache
+/Users/taniguchiriho/Projects/ProblemA/ProblemA/obj/Debug/netcoreapp3.1/ProblemA.csproj.CoreCompileInputs.cache
+/Users/taniguchiriho/Projects/ProblemA/ProblemA/obj/Debug/netcoreapp3.1/ProblemA.AssemblyInfoInputs.cache
+/Users/taniguchiriho/Projects/ProblemA/ProblemA/obj/Debug/netcoreapp3.1/ProblemA.AssemblyInfo.cs
+/Users/taniguchiriho/Projects/ProblemA/ProblemA/bin/Debug/netcoreapp3.1/ProblemA.deps.json
+/Users/taniguchiriho/Projects/ProblemA/ProblemA/bin/Debug/netcoreapp3.1/ProblemA.runtimeconfig.json
+/Users/taniguchiriho/Projects/ProblemA/ProblemA/bin/Debug/netcoreapp3.1/ProblemA.runtimeconfig.dev.json
+/Users/taniguchiriho/Projects/ProblemA/ProblemA/bin/Debug/netcoreapp3.1/ProblemA.dll
+/Users/taniguchiriho/Projects/ProblemA/ProblemA/bin/Debug/netcoreapp3.1/ProblemA.pdb
+/Users/taniguchiriho/Projects/ProblemA/ProblemA/obj/Debug/netcoreapp3.1/ProblemA.dll
+/Users/taniguchiriho/Projects/ProblemA/ProblemA/obj/Debug/netcoreapp3.1/ProblemA.pdb
